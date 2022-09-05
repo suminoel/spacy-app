@@ -1,0 +1,6 @@
+framework module Pods_spacy {
+  umbrella header "Pods-spacy-umbrella.h"
+
+  export *
+  module * { export * }
+}
